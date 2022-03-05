@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.navbar a {
+  font-size: 18px;
+}
+.container-xl {
+  position: relative;
+  height: 980px;
+  overflow: hidden;
+  background: url('../public/assets/bg1.jpeg') no-repeat center;
+  background-size: cover;
+}
+.btn {
+  max-width: 18rem;
+}
